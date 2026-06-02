@@ -1,7 +1,13 @@
-h1{
-    color: rgb(159, 159, 179);
-    background-color: lightgray;
+h1 {
+    color: rgb(4, 4, 241);
+    background-color: rgb(216, 6, 6);
 }
-*{
+
+p {
+    color: rgb(6, 216, 6);
+    background-color: rgb(6, 216, 216);
+}
+
+p * {
     background-color: rgb(198, 198, 57);
 }
